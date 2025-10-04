@@ -16,7 +16,10 @@ In this project, me and my 3 other group members will assist with one challenge 
 
 ## Our Solution
 
-*********** TODO: Finish This
+
+Our solution was a sensor-based assistive system that detects which microwave button a user is hovering over and provides real-time audio feedback announcing the button’s function. This reduces reliance on external devices and makes everyday cooking tasks more independent and inclusive.
+
+By integrating sensors, software, and user-centered design, the project demonstrates how engineering can deliver practical, socially impactful solutions that enhance daily living.
 
 ## Circuit Diagrams
 
